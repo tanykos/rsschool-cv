@@ -1,8 +1,9 @@
 # Tetiana Kostromitska
 
-### *Frontend Developer*
+*Frontend Developer*
 
 *****
+
 
 ## Contact Information
 
@@ -61,7 +62,7 @@ const sum = addNumbers(...numbers);
 
 ## Languages 
 
-- **English** - intermediate
-- **Russian** - native speaker
-- **Ukrainian** - upper-intermediate
+- **English** - Intermediate
+- **Russian** - Native speaker
+- **Ukrainian** - Upper-intermediate
 - **Bosnian** - Basic
