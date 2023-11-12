@@ -1,2 +1,1 @@
-# rsschool-cv
-RS-school training course
+https://tanykos.github.io/rsschool-cv/
