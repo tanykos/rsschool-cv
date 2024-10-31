@@ -8,7 +8,8 @@
 ## Contact Information
 
 📧 **E-mail:** kostromitskayatanya@gmail.com  
-📱 **Telegram:** [Tetiana Kostromitska](https://t.me/tanyakostro) 
+📱 **Telegram:** [Tetiana Kostromitska](https://t.me/tanyakostro)  
+🙋🏻‍♀️ **Linkedin:** [Tetiana Kostromitska](https://www.linkedin.com/in/tetiana-kostromitska-25bb0b291) (Add me, I'll be glad to make new connections)   
 
 
 ## Summary 
@@ -20,10 +21,13 @@ Eager to obtain a position at a company, that will expand my learning and build 
 
 ## Skills 
 
-- HTML5
-- CSS3(Bootstrap, SASS/SCSS)
 - JavaScript (ES6+)
 - React.js
+- TypeScript
+- Redux Toolkit
+- HTML5
+- CSS3(Bootstrap, SASS/SCSS)
+- Material UI
 - Figma
 
 
@@ -58,6 +62,7 @@ const sum = addNumbers(...numbers);
 
 - **V.I. Vernadsky Taurida National University:** Specialist degree in Mathematics and Informatics
 - **Yandex EdTech:** Mid-level Web Developer
+- **RS School:** Javascript, React Developer
 
 
 ## Languages 
